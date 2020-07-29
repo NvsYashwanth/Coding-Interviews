@@ -1,4 +1,4 @@
-# This is kadane's algorithm that solves in o(N)
+# This is KADANE's ALGORITHM that solves in o(N)
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         
