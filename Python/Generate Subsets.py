@@ -15,7 +15,7 @@ print(sol.subsets([1,2,3]))
 
 #--------------------------------------------------------------------
 
-# Approach - 1 : Bit masking O(n*2**n) time and space
+
 class altSolution:
     def subsets(self, nums):
         n = len(nums)
